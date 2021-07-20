@@ -1,6 +1,6 @@
 # test_tflite
 
-A new Flutter project.
+Final Repo for AI CPS Project
 
 ## Getting Started
 
